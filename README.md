@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Avadhesh Sharma</h1>
-<h3 align="center">iOS Developer</h3>
+<h1 align="left">Hi 👋, I'm Avadhesh Sharma</h1>
+<h3 align="left">iOS App Developer</h3>
 
 - 🌱 I’m currently learning **Flutter, Laravel**
 
