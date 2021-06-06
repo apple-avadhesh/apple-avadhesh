@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avadhesh Sharma</h1>
 <h3 align="center">iOS Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apple-avadhesh" alt="apple-avadhesh" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter, Laravel**
 
 - 📝 I write articles on [https://www.iosapplication.net](https://www.iosapplication.net)
