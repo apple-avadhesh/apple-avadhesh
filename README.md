@@ -2,10 +2,8 @@
 <h3 align="left">iOS App Developer</h3>
 
 🌱 I’m currently learning **Flutter, Laravel**
-
-- 📝 I write articles on [https://www.iosapplication.net](https://www.iosapplication.net)
-
-- 📫 How to reach me **apple.avadhesh@gmail.com**
+📝 I write articles on [https://www.iosapplication.net](https://www.iosapplication.net)
+📫 How to reach me **apple.avadhesh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
