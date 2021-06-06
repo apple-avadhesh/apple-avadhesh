@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avadhesh Sharma</h1>
 <h3 align="center">iOS Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apple-avadhesh&label=Profile%20views&color=0e75b6&style=flat" alt="apple-avadhesh" /> </p>
-
 - 🌱 I’m currently learning **Flutter, Laravel**
 
 - 📝 I write articles on [https://www.iosapplication.net](https://www.iosapplication.net)
