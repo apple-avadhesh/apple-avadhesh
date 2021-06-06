@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Avadhesh Sharma</h1>
 <h3 align="left">iOS App Developer</h3>
 
-- 🌱 I’m currently learning **Flutter, Laravel**
+🌱 I’m currently learning **Flutter, Laravel**
 
 - 📝 I write articles on [https://www.iosapplication.net](https://www.iosapplication.net)
 
